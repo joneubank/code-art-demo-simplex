@@ -11,7 +11,13 @@ const root = document.getElementById('root');
 
 ReactDOM.render(
   <React.StrictMode>
-    <App sketch={sketch} />
+    <App
+      sketch={sketch}
+      title={'simplex rorschach | code-not-art'}
+      description={
+        'Demo sketch for simplex noise in @code-not-art/core library'
+      }
+    />
   </React.StrictMode>,
   root,
 );
