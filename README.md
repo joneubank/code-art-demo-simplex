@@ -2,7 +2,7 @@
 
 ![Example Image Output](https://github.com/joneubank/code-art-demo-simplex/blob/main/phylogenetically%20immovable%20tutoyering%20-%20syllabically%20wispier%20whereuntil.png)
 
-Play with the [Live Demo!](https://code-art-truchet.netlify.com)
+Play with the [Live Demo!](https://code-art-demo-simplex.netlify.app/)
 
 Built using [@code-not-art/sketch](https://www.npmjs.com/package/@code-not-art/sketch) from the ready to go [development template](https://github.com/code-not-art/template)
 
